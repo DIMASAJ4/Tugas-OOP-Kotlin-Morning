@@ -54,13 +54,13 @@ class Hero {
 
     fun lompat() {
         checkHealth()
-        println("$name sedang makan...")
+        println("$name sedang lompat...")
         health  -= 2
     }
 
     fun duduk() {
         checkHealth()
-        println("$name sedang makan...")
+        println("$name sedang duduk...")
         health  += 1
     }
 

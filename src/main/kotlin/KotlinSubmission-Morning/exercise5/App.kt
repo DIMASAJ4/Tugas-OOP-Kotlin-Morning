@@ -88,9 +88,6 @@ fun main() {
     hero.duduk()
     hero.duduk()
 
-
-
-
     /**
      * Latihan 5
      * Panggil fungsi profile dibawah ini untuk menampilkan status terkini setelah melakukan aktivitas
